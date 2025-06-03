@@ -1,9 +1,6 @@
 # PHP Web Site Optimization
 
-**Author:** Greg Weir  
-**Course Code:** phpopt  
-
-> _Can I use your material_
+**Author:** Greg Weir
 
 ---
 
